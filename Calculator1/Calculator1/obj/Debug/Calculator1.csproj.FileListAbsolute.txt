@@ -1,0 +1,7 @@
+E:\vs新建文件夹\C#软件构造基础\Calculator1\Calculator1\bin\Debug\Calculator1.exe.config
+E:\vs新建文件夹\C#软件构造基础\Calculator1\Calculator1\bin\Debug\Calculator1.exe
+E:\vs新建文件夹\C#软件构造基础\Calculator1\Calculator1\bin\Debug\Calculator1.pdb
+E:\vs新建文件夹\C#软件构造基础\Calculator1\Calculator1\obj\Debug\Calculator1.csprojAssemblyReference.cache
+E:\vs新建文件夹\C#软件构造基础\Calculator1\Calculator1\obj\Debug\Calculator1.csproj.CoreCompileInputs.cache
+E:\vs新建文件夹\C#软件构造基础\Calculator1\Calculator1\obj\Debug\Calculator1.exe
+E:\vs新建文件夹\C#软件构造基础\Calculator1\Calculator1\obj\Debug\Calculator1.pdb
