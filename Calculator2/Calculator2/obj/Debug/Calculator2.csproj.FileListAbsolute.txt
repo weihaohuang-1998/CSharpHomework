@@ -1,0 +1,10 @@
+E:\vs新建文件夹\C#软件构造基础\Calculator2\Calculator2\bin\Debug\Calculator2.exe.config
+E:\vs新建文件夹\C#软件构造基础\Calculator2\Calculator2\bin\Debug\Calculator2.exe
+E:\vs新建文件夹\C#软件构造基础\Calculator2\Calculator2\bin\Debug\Calculator2.pdb
+E:\vs新建文件夹\C#软件构造基础\Calculator2\Calculator2\obj\Debug\Calculator2.csprojAssemblyReference.cache
+E:\vs新建文件夹\C#软件构造基础\Calculator2\Calculator2\obj\Debug\Calculator2.Properties.Resources.resources
+E:\vs新建文件夹\C#软件构造基础\Calculator2\Calculator2\obj\Debug\Calculator2.csproj.GenerateResource.cache
+E:\vs新建文件夹\C#软件构造基础\Calculator2\Calculator2\obj\Debug\Calculator2.csproj.CoreCompileInputs.cache
+E:\vs新建文件夹\C#软件构造基础\Calculator2\Calculator2\obj\Debug\Calculator2.exe
+E:\vs新建文件夹\C#软件构造基础\Calculator2\Calculator2\obj\Debug\Calculator2.pdb
+E:\vs新建文件夹\C#软件构造基础\Calculator2\Calculator2\obj\Debug\Calculator.Form1.resources
