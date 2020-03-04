@@ -1,0 +1,7 @@
+E:\vs新建文件夹\C#软件构造基础\homework2\homework2-3\bin\Debug\homework2-3.exe.config
+E:\vs新建文件夹\C#软件构造基础\homework2\homework2-3\bin\Debug\homework2-3.exe
+E:\vs新建文件夹\C#软件构造基础\homework2\homework2-3\bin\Debug\homework2-3.pdb
+E:\vs新建文件夹\C#软件构造基础\homework2\homework2-3\obj\Debug\homework2-3.csprojAssemblyReference.cache
+E:\vs新建文件夹\C#软件构造基础\homework2\homework2-3\obj\Debug\homework2-3.csproj.CoreCompileInputs.cache
+E:\vs新建文件夹\C#软件构造基础\homework2\homework2-3\obj\Debug\homework2-3.exe
+E:\vs新建文件夹\C#软件构造基础\homework2\homework2-3\obj\Debug\homework2-3.pdb
