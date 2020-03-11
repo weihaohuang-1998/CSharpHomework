@@ -1,0 +1,7 @@
+E:\vs新建文件夹\C#软件构造基础\ShapeFactory\ShapeFactory\bin\Debug\ShapeFactory.exe.config
+E:\vs新建文件夹\C#软件构造基础\ShapeFactory\ShapeFactory\bin\Debug\ShapeFactory.exe
+E:\vs新建文件夹\C#软件构造基础\ShapeFactory\ShapeFactory\bin\Debug\ShapeFactory.pdb
+E:\vs新建文件夹\C#软件构造基础\ShapeFactory\ShapeFactory\obj\Debug\ShapeFactory.csprojAssemblyReference.cache
+E:\vs新建文件夹\C#软件构造基础\ShapeFactory\ShapeFactory\obj\Debug\ShapeFactory.csproj.CoreCompileInputs.cache
+E:\vs新建文件夹\C#软件构造基础\ShapeFactory\ShapeFactory\obj\Debug\ShapeFactory.exe
+E:\vs新建文件夹\C#软件构造基础\ShapeFactory\ShapeFactory\obj\Debug\ShapeFactory.pdb
