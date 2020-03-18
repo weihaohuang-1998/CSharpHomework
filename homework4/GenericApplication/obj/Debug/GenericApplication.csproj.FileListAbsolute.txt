@@ -1,0 +1,7 @@
+E:\vs新建文件夹\C#软件构造基础\homework3\GenericApplication\GenericApplication\bin\Debug\GenericApplication.exe.config
+E:\vs新建文件夹\C#软件构造基础\homework3\GenericApplication\GenericApplication\bin\Debug\GenericApplication.exe
+E:\vs新建文件夹\C#软件构造基础\homework3\GenericApplication\GenericApplication\bin\Debug\GenericApplication.pdb
+E:\vs新建文件夹\C#软件构造基础\homework3\GenericApplication\GenericApplication\obj\Debug\GenericApplication.csprojAssemblyReference.cache
+E:\vs新建文件夹\C#软件构造基础\homework3\GenericApplication\GenericApplication\obj\Debug\GenericApplication.csproj.CoreCompileInputs.cache
+E:\vs新建文件夹\C#软件构造基础\homework3\GenericApplication\GenericApplication\obj\Debug\GenericApplication.exe
+E:\vs新建文件夹\C#软件构造基础\homework3\GenericApplication\GenericApplication\obj\Debug\GenericApplication.pdb
