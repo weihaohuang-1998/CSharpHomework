@@ -1,0 +1,7 @@
+E:\vs新建文件夹\C#软件构造基础\homework9\SimpleCrawler\SimpleCrawler\bin\Debug\SimpleCrawler.exe.config
+E:\vs新建文件夹\C#软件构造基础\homework9\SimpleCrawler\SimpleCrawler\bin\Debug\SimpleCrawler.exe
+E:\vs新建文件夹\C#软件构造基础\homework9\SimpleCrawler\SimpleCrawler\bin\Debug\SimpleCrawler.pdb
+E:\vs新建文件夹\C#软件构造基础\homework9\SimpleCrawler\SimpleCrawler\obj\Debug\SimpleCrawler.csprojAssemblyReference.cache
+E:\vs新建文件夹\C#软件构造基础\homework9\SimpleCrawler\SimpleCrawler\obj\Debug\SimpleCrawler.csproj.CoreCompileInputs.cache
+E:\vs新建文件夹\C#软件构造基础\homework9\SimpleCrawler\SimpleCrawler\obj\Debug\SimpleCrawler.exe
+E:\vs新建文件夹\C#软件构造基础\homework9\SimpleCrawler\SimpleCrawler\obj\Debug\SimpleCrawler.pdb
