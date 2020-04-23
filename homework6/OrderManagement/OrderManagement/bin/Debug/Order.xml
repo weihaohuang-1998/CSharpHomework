@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<ArrayOfOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Order>
+    <OrderCost>0</OrderCost>
+    <orderItems>
+      <OrderItem>
+        <price>2</price>
+        <name>apple</name>
+        <amount>1</amount>
+        <money>2</money>
+      </OrderItem>
+    </orderItems>
+    <OrderID>0</OrderID>
+    <consumerName>黄维浩</consumerName>
+  </Order>
+</ArrayOfOrder>

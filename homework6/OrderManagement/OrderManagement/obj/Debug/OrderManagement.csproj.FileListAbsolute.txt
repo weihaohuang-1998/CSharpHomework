@@ -1,0 +1,7 @@
+E:\vs新建文件夹\C#软件构造基础\homework5\OrderManagement\OrderManagement\bin\Debug\OrderManagement.exe.config
+E:\vs新建文件夹\C#软件构造基础\homework5\OrderManagement\OrderManagement\bin\Debug\OrderManagement.exe
+E:\vs新建文件夹\C#软件构造基础\homework5\OrderManagement\OrderManagement\bin\Debug\OrderManagement.pdb
+E:\vs新建文件夹\C#软件构造基础\homework5\OrderManagement\OrderManagement\obj\Debug\OrderManagement.csprojAssemblyReference.cache
+E:\vs新建文件夹\C#软件构造基础\homework5\OrderManagement\OrderManagement\obj\Debug\OrderManagement.csproj.CoreCompileInputs.cache
+E:\vs新建文件夹\C#软件构造基础\homework5\OrderManagement\OrderManagement\obj\Debug\OrderManagement.exe
+E:\vs新建文件夹\C#软件构造基础\homework5\OrderManagement\OrderManagement\obj\Debug\OrderManagement.pdb
