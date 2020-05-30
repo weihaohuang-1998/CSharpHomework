@@ -1,0 +1,27 @@
+F:\C#\四月十日\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+F:\C#\四月十日\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+F:\C#\四月十日\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+F:\C#\四月十日\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojAssemblyReference.cache
+F:\C#\四月十日\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+F:\C#\四月十日\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+F:\C#\四月十日\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+F:\C#\四月十日\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+F:\C#\四月十日\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+F:\C#\四月十日\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form2.resources
+F:\C#\四月十日\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form3.resources
+F:\C#\四月十日\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form4.resources
+F:\C#\四月十日\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form5.resources
+D:\谷歌浏览器\第八周 (1)\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+D:\谷歌浏览器\第八周 (1)\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+D:\谷歌浏览器\第八周 (1)\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+D:\谷歌浏览器\第八周 (1)\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojAssemblyReference.cache
+D:\谷歌浏览器\第八周 (1)\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+D:\谷歌浏览器\第八周 (1)\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form2.resources
+D:\谷歌浏览器\第八周 (1)\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form3.resources
+D:\谷歌浏览器\第八周 (1)\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form4.resources
+D:\谷歌浏览器\第八周 (1)\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form5.resources
+D:\谷歌浏览器\第八周 (1)\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+D:\谷歌浏览器\第八周 (1)\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+D:\谷歌浏览器\第八周 (1)\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+D:\谷歌浏览器\第八周 (1)\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+D:\谷歌浏览器\第八周 (1)\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
